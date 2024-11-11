@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+h1 {
+  @apply text-3xl text-green-500 font-bold mb-4;
+}
+h2 {
+  @apply text-2xl text-green-500 font-bold mb-2;
+}
+h3 {
+  @apply text-xl text-green-500 font-bold mb-2;
+}
+p {
+  @apply mb-4;
+}
+strong {
+  @apply text-green-500;
+}
+p {
+  @apply text-sm text-white/80;
+}
+.cell {
+  @apply bg-gray-600 text-white/90 font-medium px-3 py-1 rounded border border-white/20 shadow-xl hover:bg-gray-500 transition duration-300 grid grid-cols-12 gap-4;
+}
+li {
+  @apply text-white/70
+}
