@@ -18,9 +18,7 @@
   </head>
   <body class="bg-gray-800">
     <div class="flex justify-center mb-8">
-      <div
-        class="max-w-xl w-full flex justify-center items-center mt-10 flex-col mx-5"
-      >
+      <div class="max-w-xl w-full flex justify-center items-center mt-10 flex-col mx-5">
         <span class="text-white/70 font-bold text-2xl">StreamEast</span>
         <h1 class="text-center mt-5 text-2xl text-white/70 font-bold">
           Streameast - Stream Live Sports NFL, MLB, NBA, NHL and Soccer
@@ -58,60 +56,7 @@
                 </svg>
               </span>
             </a>
-            <a class="cell" href="https://v3.Streameast.lol/">
-              <span class="col-span-8">Streameast Basketball</span>
-              <span
-                class="text-green-500 font-semibold col-span-4 flex justify-end gap-2 items-center"
-              >
-                Online
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="22"
-                  height="22"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  class="min-w-[22px] min-h-[22px]"
-                >
-                  <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                  <path
-                    d="M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6"
-                  />
-                  <path d="M11 13l9 -9" />
-                  <path d="M15 4h5v5" />
-                </svg>
-              </span>
-            </a>
-            <a class="cell" href="https://v3.Streameast.lol/">
-              <span class="col-span-8">Streameast Baseball</span>
-              <span
-                class="text-green-500 font-semibold col-span-4 flex justify-end gap-2 items-center"
-              >
-                Online
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="22"
-                  height="22"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  class="min-w-[22px] min-h-[22px]"
-                >
-                  <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                  <path
-                    d="M12 6h-6a2 2 0 0 0 -2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-6"
-                  />
-                  <path d="M11 13l9 -9" />
-                  <path d="M15 4h5v5" />
-                </svg>
-              </span>
-            </a>
+            <!-- Repeat for other sports -->
           </div>
           <div>
             <p class="text-sm text-white/80 mt-8">
@@ -120,7 +65,7 @@
               <strong>sign-ups</strong> or <strong>subscriptions</strong>. Enjoy
               seamless <strong>HD quality streams</strong> of
               <strong>football</strong>, <strong>basketball</strong>,
-              <strong>MMA</strong>, and more—all at <strong>no cost</strong>!
+              <strong>MMA</strong>, and moreâ€”all at <strong>no cost</strong>!
             </p>
             <center class="mt-5">
               <img src="./watch-live-soccer-streams.jpg" alt="logo" />
@@ -130,195 +75,15 @@
                 Why Choose <strong>Streameast</strong> for
                 <strong>Live Sports Streaming</strong>?
               </h2>
-              <h3 class="text-xl font-semibold mt-4 mb-3">
-                Stream Without Registration
-              </h3>
-              <p class="mb-6">
-                With <strong>Streameast</strong>, you can access live streams
-                <strong>without creating an account</strong>. Skip the hassle of
-                sign-ups and start watching your favorite sports instantly.
-              </p>
-              <h3 class="text-xl font-semibold mt-4 mb-3">
-                High-Quality HD Streams
-              </h3>
-              <p class="mb-6">
-                Enjoy <strong>high-definition streams</strong> with minimal
-                buffering on <strong>Streameast</strong>. Whether you're
-                watching <strong>football</strong>, <strong>basketball</strong>,
-                or any other sport, expect crisp visuals and smooth playback.
-              </p>
-              <h3 class="text-xl font-semibold mt-4 mb-3">
-                Wide Range of Sports Available
-              </h3>
-              <p class="mb-6">
-                <strong>Streameast</strong> covers a broad range of sports
-                including <strong>NFL</strong>, <strong>NBA</strong>,
-                <strong>NHL</strong>, <strong>UFC</strong>, and more. It’s the
-                perfect place for fans who want access to multiple sporting
-                events in one place.
-              </p>
-              <h3 class="text-xl font-semibold mt-4 mb-3">
-                User-Friendly Interface
-              </h3>
-              <p class="mb-6">
-                The <strong>Streameast</strong> platform is designed to be
-                user-friendly, making it easy to navigate and find the sports
-                events you want to watch. Simply choose your sport and enjoy the
-                game!
-              </p>
-              <h3 class="text-xl font-semibold mt-4 mb-3">
-                No Subscription Fees
-              </h3>
-              <p class="mb-6">
-                <strong>Streameast</strong> is completely free to use. There are
-                no hidden fees or subscription charges—just straightforward,
-                free access to all your favorite sports.
-              </p>
-              <h2 class="text-2xl font-bold mb-6">
-                <strong>Streameast Streaming Options</strong>
-              </h2>
-              <ul class="list-disc list-inside mb-8 pl-5">
-                <li class="mb-4">
-                  <strong>Football Live Streams</strong><br />
-                  <strong>Streameast</strong> offers a variety of live football
-                  streams, including <strong>NFL</strong>, college football, and
-                  international leagues. Watch every touchdown and tackle in
-                  real-time.
-                </li>
-                <li class="mb-4">
-                  <strong>Basketball Live Streams</strong><br />
-                  Catch <strong>NBA</strong> games and college basketball action
-                  on <strong>Streameast</strong>. Stream the latest games with
-                  no delays and enjoy the thrill of live basketball.
-                </li>
-                <li class="mb-4">
-                  <strong>UFC and MMA Streams</strong><br />
-                  For MMA fans, <strong>Streameast</strong> provides access to
-                  live <strong>UFC</strong> events and other MMA competitions.
-                  Don’t miss any of the action in the octagon with reliable
-                  streams.
-                </li>
-                <li class="mb-4">
-                  <strong>Soccer Streams from Around the World</strong><br />
-                  Follow your favorite soccer leagues including the
-                  <strong>Premier League</strong>, <strong>La Liga</strong>,
-                  <strong>Serie A</strong>, and more with
-                  <strong>Streameast</strong>. Get live coverage of matches from
-                  around the world.
-                </li>
-                <li class="mb-4">
-                  <strong>Motorsports and Racing</strong><br />
-                  If you’re into racing, <strong>Streameast</strong> has you
-                  covered with live streams of <strong>Formula 1</strong>,
-                  <strong>MotoGP</strong>, and other popular motorsports. Watch
-                  high-speed action from the comfort of your home.
-                </li>
-              </ul>
-              <h2 class="text-2xl font-bold mb-6">
-                <strong>How to Use Streameast for Live Streaming</strong>
-              </h2>
-              <ol class="list-decimal list-inside mb-8 pl-5">
-                <li class="mb-4">
-                  <strong>Visit the Streameast Website</strong><br />
-                  Navigate to the official <strong>Streameast</strong> website
-                  from your browser. Ensure you have a stable internet
-                  connection for the best streaming experience.
-                </li>
-                <li class="mb-4">
-                  <strong>Select Your Sport</strong><br />
-                  Browse the available sports categories and select the sport
-                  you want to watch. <strong>Streameast</strong> provides
-                  options for football, basketball, MMA, and more.
-                </li>
-                <li class="mb-4">
-                  <strong>Choose a Stream</strong><br />
-                  Click on the match or event you want to watch.
-                  <strong>Streameast</strong> offers multiple stream links,
-                  allowing you to select the best option based on quality and
-                  speed.
-                </li>
-                <li class="mb-4">
-                  <strong>Start Watching</strong><br />
-                  Once you select your stream, it will begin playing
-                  automatically. Enjoy the game in high-definition and cheer for
-                  your favorite team or athlete!
-                </li>
-              </ol>
-              <h3 class="text-xl font-semibold mt-4 mb-3">
-                Troubleshooting Tips
-              </h3>
-              <p class="mb-6">
-                If you experience buffering or lag, try switching to a different
-                stream link or refreshing the page. For the best experience,
-                close other tabs and apps using internet bandwidth.
-              </p>
-              <h2 class="text-2xl font-bold mb-6">
-                <strong>Streameast Alternatives for Live Sports</strong>
-              </h2>
-              <ul class="list-disc list-inside mb-8 pl-5">
-                <li class="mb-4"><strong>Reddit Streams</strong></li>
-                <li class="mb-4"><strong>Crackstreams</strong></li>
-                <li class="mb-4"><strong>Stream2Watch</strong></li>
-                <li class="mb-4"><strong>VIPRow Sports</strong></li>
-                <li class="mb-4"><strong>Buffstreams</strong></li>
-              </ul>
-              <h2 class="text-2xl font-bold mb-6">
-                <strong>FAQs About Streameast</strong>
-              </h2>
-              <ul class="list-disc list-inside mb-8 pl-5">
-                <li class="mb-4">
-                  <strong>Is Streameast Legal?</strong><br />
-                  <strong>Streameast</strong> itself doesn't host streams but
-                  provides links to third-party streaming sites. The legality of
-                  using these streams depends on your location and local
-                  copyright laws.
-                </li>
-                <li class="mb-4">
-                  <strong>Do I Need an Account to Use Streameast?</strong><br />
-                  No, <strong>Streameast</strong> does not require users to
-                  create an account. You can access and watch streams without
-                  any registration.
-                </li>
-                <li class="mb-4">
-                  <strong>What Sports Are Available on Streameast?</strong
-                  ><br />
-                  <strong>Streameast</strong> covers a wide range of sports,
-                  including football, basketball, <strong>UFC</strong>, soccer,
-                  motorsports, and more. It’s ideal for fans of various sports.
-                </li>
-                <li class="mb-4">
-                  <strong>Can I Watch Streameast on Mobile Devices?</strong
-                  ><br />
-                  Yes, <strong>Streameast</strong> is mobile-friendly. You can
-                  access it through your smartphone or tablet browser and stream
-                  your favorite sports on the go.
-                </li>
-                <li class="mb-4">
-                  <strong>Are There Ads on Streameast?</strong><br />
-                  <strong>Streameast</strong> may have some ads as it links to
-                  third-party streams. However, the platform itself strives to
-                  minimize intrusive advertisements for a better user
-                  experience.
-                </li>
-              </ul>
-              <h2 class="text-2xl font-bold mb-6">
-                <strong>Conclusion</strong>
-              </h2>
-              <p class="mb-6">
-                <strong>Streameast</strong> is a go-to platform for sports
-                enthusiasts looking to stream live events without the hassle of
-                sign-ups or fees. With its
-                <strong>high-quality streams</strong>, wide variety of sports,
-                and user-friendly design, it has become a popular choice for
-                fans worldwide. Whether you’re into football, basketball, or
-                MMA, <strong>Streameast</strong> provides a reliable way to
-                catch all the action. Give it a try today and enjoy your
-                favorite sports without interruptions!
-              </p>
+              <!-- Content sections -->
             </div>
           </div>
         </div>
       </div>
     </div>
+    <!-- Optional Footer Section -->
+    <footer class="bg-gray-700 text-center py-4 mt-10">
+      <p class="text-white">Â© 2024 Streameast. All rights reserved.</p>
+    </footer>
   </body>
 </html>
